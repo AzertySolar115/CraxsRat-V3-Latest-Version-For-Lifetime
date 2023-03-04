@@ -148,3 +148,6 @@ Skeleton view or Scan View
 - ✅Add logo window to copy anything from screen easy
 
 # Screenshots
+![CraxsRat V3 By 30Deep](https://user-images.githubusercontent.com/108396416/222870185-052e55d4-749c-45ad-bc49-b9c3b255ec6f.png)
+![CraxsRat V3 By 30Deep (2)](https://user-images.githubusercontent.com/108396416/222870188-639f1789-349b-4595-8810-7ccd56f763ab.png)
+![CraxsRat V3 By 30Deep (3)](https://user-images.githubusercontent.com/108396416/222870194-a22c5b45-c114-424f-b55e-35a2e5b95fd5.png)
